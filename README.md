@@ -156,3 +156,4 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. Open a Pull Request
 
 For detailed guidelines, see our [contribution guide](./CONTRIBUTING.md).
+Minor documentation update
